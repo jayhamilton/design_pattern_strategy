@@ -6,7 +6,7 @@ The example is inspired by the first chapter of the Head First Design Patterns B
 
 
 ## Youtube Play List
-![4 Video Playlist](https://youtube.com/playlist?list=PLnFO49HiE0U-FLjYnTR0bBykV7stc2zaV)
+https://youtube.com/playlist?list=PLnFO49HiE0U-FLjYnTR0bBykV7stc2zaV
 
 
 
