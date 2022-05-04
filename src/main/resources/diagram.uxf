@@ -1,0 +1,22 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>10</x><y>29</y><w>140</w><h>110</h></coordinates><panel_attributes>Context
+
+
+--
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>200</x><y>120</y><w>150</w><h>120</h></coordinates><panel_attributes>&lt;&lt;interface&gt;&gt;
+Strategy
+--
+
+/+execute()/
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>50</x><y>320</y><w>140</w><h>100</h></coordinates><panel_attributes>ConcreteStrategyA
+
+--
+
+/+execute/
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>350</x><y>320</y><w>130</w><h>100</h></coordinates><panel_attributes>ConcreteStrategyB
+
+--
+
+/+execute/
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>140</x><y>50</y><w>170</w><h>90</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;150;10;150;70</additional_attributes></element><element><id>Relation</id><coordinates><x>120</x><y>230</y><w>180</w><h>110</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>160;10;160;50;10;50;10;90</additional_attributes></element><element><id>Relation</id><coordinates><x>270</x><y>230</y><w>170</w><h>110</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;50;150;50;150;90</additional_attributes></element></diagram>
